@@ -23,9 +23,9 @@ Dataset documentation: https://scikit-learn.org/stable/modules/generated/sklearn
 5. Compare accuracy scores and confusion matrices.
 
 ## Results
-- Decision Tree accuracy: [insert actual score]
-- KNN accuracy: [insert actual score]
-- Better-performing model: [insert actual result]
+- Decision Tree accuracy: 93.33%
+- KNN accuracy: 93.33%
+- Better-performing model: Both models achieved equal test set accuracy.
 
 ## How to Run
 1. Open `iris_classification.ipynb` in Google Colab or Jupyter Notebook.
